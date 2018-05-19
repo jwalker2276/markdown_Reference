@@ -18,6 +18,12 @@ _Italic_
 ~~Strikethrough~~
 ```
 
+**Bold**
+
+_Italic_
+
+~~Strikethrough~~
+
 # Headings
 
 ```md
